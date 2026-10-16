@@ -72,6 +72,17 @@ I am building hands-on experience in Python, data analytics, statistical analysi
 
 **LinkedIn:** [Tanvi Mishra](https://www.linkedin.com/in/tanvi-mishra-64043722b/)
 
----
+---## Project Presentation
+
+I've also prepared a visual presentation to communicate the key findings from my ShopNow statistical analysis.
+
+The presentation covers customer spending patterns, conversion behaviour, statistical testing, and practical business insights.
+
+**Presentation Files:**
+
+- [ShopNow PowerPoint Presentation](ShopNow_Presentation_PowerPoint.pptx)
+- [ShopNow Presentation PDF](ShopNow_Presentation_PDF.pdf)
+
+**Key Takeaway:** Statistical significance does not always mean business importance. Understanding the effect size and practical impact is essential for making data-driven decisions.
 
 *This repository documents my practical learning and progress in data analytics.*
